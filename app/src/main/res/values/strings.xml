@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FileIO</string>
+    <string name="save">Save the text</string>
+    <string name="load">Load the text</string>
+    <string name="notepad">Notepad Application</string>
+</resources>
